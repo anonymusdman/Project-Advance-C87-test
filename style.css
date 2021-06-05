@@ -1,0 +1,14 @@
+body {
+    background-image: url(somethingy.gif);
+    overflow: hidden;
+}
+/*#CarRacingGame{
+    background-image: url(awsm.jpeg);
+}*/
+#game_status {
+    color: red;
+    font-size: x-large;
+}
+h4 {
+    color: red;
+}
